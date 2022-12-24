@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mulia007/mulia007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mulia007)](https://git.io/streak-stats)
+- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mulia007&theme=dark)](https://git.io/streak-stats)
