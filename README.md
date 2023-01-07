@@ -4,6 +4,5 @@ Hi there 👋
 - 📫 How to reach me: muliayusuf007@gmail.com
 - 😄 Pronouns: m-u-l-i-a
 - ⚡ Fun fact: MU fans
-- 💬 Ask me about anything
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mulia007&theme=dark)](https://git.io/streak-stats)
