@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently Fresh Graduate Front End Engineer
+- 🔭 I’m Front End Engineer
 - 📫 How to reach me: muliayusuf007@gmail.com
 - 😄 Pronouns: m-u-l
 - ⚡ Fun fact: MU fans
